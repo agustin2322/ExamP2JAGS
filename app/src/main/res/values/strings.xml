@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExamP2JAGS</string>
+    <string name="tab_menu">Menú</string>
+    <string name="tab_suma">Suma</string>
+    <string name="tab_resta">Resta</string>
+</resources>
